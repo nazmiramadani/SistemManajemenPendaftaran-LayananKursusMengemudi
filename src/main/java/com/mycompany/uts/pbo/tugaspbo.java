@@ -3,7 +3,7 @@ package com.mycompany.uts.pbo;
 import model.Service;
 import java.util.Scanner;
 
-public class UTSPBO {
+public class tugaspbo {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
